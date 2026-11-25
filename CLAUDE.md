@@ -39,5 +39,6 @@ flight_mode, sigma, seed) visibles junto al nombre sencillo.
 - Pruebas: `python -m pytest pruebas` (~10 s, incluye cargar la app).
 - Entorno: Windows, `python` = 3.10 de Laragon (usar `python -m pip`),
   streamlit 1.65, plotly 6.
-- Sin repo git todavia (la carpeta padre `c:\laragon\www` es OTRO repo:
-  no hacer commits ahi).
+- Repo propio en esta carpeta (remote github.com/paoGonzalezUDG/aha.git,
+  rama main). La carpeta padre `c:\laragon\www` es OTRO repo (mexware): no
+  hacer commits ahi.
