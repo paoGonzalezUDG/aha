@@ -211,7 +211,7 @@ vuelta + 1 por cada migración. Ejemplo con la base: 50 + 50 × 1000 + 10 =
 visitar, `D` = el vector de vuelo (1 en las coordenadas que se mueven, 0 en
 las demás), `N(0, 1)` = un número al azar con distribución normal.
 
-*Zhao, Wang y Mirjalili (2021), Artificial hummingbird algorithm: A new
+*Zhao, Wang y Mirjalili (2022), Artificial hummingbird algorithm: A new
 bio-inspired optimizer with its engineering applications. Computer Methods
 in Applied Mechanics and Engineering, 388, 114194.*
 """)

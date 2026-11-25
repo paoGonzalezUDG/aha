@@ -1,5 +1,5 @@
 """
-Artificial Hummingbird Algorithm (AHA) - Zhao, Wang y Mirjalili (2021),
+Artificial Hummingbird Algorithm (AHA) - Zhao, Wang y Mirjalili (2022),
 Computer Methods in Applied Mechanics and Engineering 388, 114194.
 
 Basado en AHA_python.py (el codigo que nos dieron), con los parametros del
